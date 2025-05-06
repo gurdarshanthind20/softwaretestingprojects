@@ -1,19 +1,6 @@
 # softwaretestingprojects
 This repository is dedicated to creating, organizing, and maintaining test cases, test scenarios, and the corresponding code to ensure quality and functionality across various projects. The main goal is to streamline the process of writing, executing, and managing tests for software applications.
 
-manual-testing-project/
-├── TestPlan/
-│ └── test-plan.docx
-├── TestScenarios/
-│ └── test-scenarios.xlsx
-├── TestCases/
-│ ├── functional_test_cases.xlsx
-│ └── non_functional_test_cases.xlsx
-└── README.md
-
-
----
-
 ## ✅ Test Plan
 
 The **Test Plan** document outlines the entire testing strategy and includes:
@@ -26,7 +13,7 @@ The **Test Plan** document outlines the entire testing strategy and includes:
 - Roles & responsibilities  
 - Risks and mitigation plans
 
-📄 **Location:** `TestPlan/test-plan.docx`
+📄 **Location:** test-plan.docx`
 
 ---
 
@@ -34,7 +21,7 @@ The **Test Plan** document outlines the entire testing strategy and includes:
 
 Test scenarios cover high-level testing conditions derived from the requirements, helping to bridge the gap between business needs and test execution.
 
-📄 **Location:** `TestScenarios/test-scenarios.xlsx`
+📄 **Location:** /test-scenarios.xlsx`
 
 ---
 
@@ -47,13 +34,13 @@ Manual test cases are categorized into:
 - Covers core functionality
 - Validates user workflows and business rules
 
-📄 **File:** `TestCases/functional_test_cases.xlsx`
+📄 **File:** functional_test_cases.xlsx`
 
 ### 🔹 Non-Functional Test Cases
 
 - Covers usability, performance, security, and compatibility
 
-📄 **File:** `TestCases/non_functional_test_cases.xlsx`
+📄 **File:** non_functional_test_cases.xlsx`
 
 Each test case includes:
 
@@ -65,9 +52,3 @@ Each test case includes:
 - Status (Pass/Fail)
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/gurdarshanthind20/softwaretestingprojects.git
